@@ -11,6 +11,6 @@ How to visualize data in clear and clever ways.
 
 ## Assignment 1
 
-## Assigmnet 2
+## Assignment 2
 
 ## Final Project
