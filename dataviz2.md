@@ -8,4 +8,12 @@
 
 ## Part 2: Working with Flourish
 
+### Grid of Line Chart
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11153388"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Grid of Pie Chart
+
+| I believe it would be interesting to see how countries comparing to each others over the years. So I selected top four countries having the highest debt in 2021 and the OECD average to see if their proportion changed.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11153559"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
