@@ -9,8 +9,6 @@ How to visualize data in clear and clever ways.
 
 # Portfolio
 
-## Assignment 1
-
-## Assignment 2
+## [Visualizing Government Debt](/dataviz2.md)
 
 ## Final Project
