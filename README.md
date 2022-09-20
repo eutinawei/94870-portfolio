@@ -11,4 +11,6 @@ How to visualize data in clear and clever ways.
 
 ## [Visualizing Government Debt](/dataviz2.md)
 
+## [Critique by Design](/dataviz3.md)
+
 ## Final Project
