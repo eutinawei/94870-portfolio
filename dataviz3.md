@@ -28,4 +28,13 @@ I basically took the numbers and turned it into a line graph. I figured it would
   - A: I would make the scale of x-axis bigger. Cause currently except the US, all the other countries are gathered together.
 
 2. Student, mid 20's
-  - 
+  - Q: Can you tell me what you think this is?
+  - A: A graph about the number of Taiwanese students receiving student visa from major countries from 2012 to 2021 (repeating the title as well)
+  - Q: Can you describe to me what this is telling you?
+  - A: The majority of Taiwanese throughout the years have been getting student visa from the US, and it plunged during 2019. (Oh sorry I messed up the wireframe it should be 2020.) Oh okay. It makes sense now.
+  - Q: Is there anything you find surprising or confusing?
+  - A: It is confusing that the line for Japan is longer than others, and how only Canada acted differently during 2020 is pretty surprising.
+  - Q: Who do you think is the intended audience for this?
+  - A: Probably Taiwanese who are deciding what countries they would like to go study.
+  - Q: Is there anything you would change or do differently?
+  - A: I would like to learn more about the data before 2012. Also, I would want to zoom in the graph and set the max value of y-axis to 15k to have a clearer comparison of different countries.
