@@ -5,20 +5,21 @@
 ### Project Outline
 
 1. Summary: 
-I plan to analyze how people's preference for social media platform changed throughout the years, and with the analysis on what every social media's main focus is. I believe by doing so, it would be interesting to see how people's online interaction patterns evolved. 
+I plan to analyze how people's preference for books have changed throughout the years. I am interested in doing research on how ebooks perform, and if people are gradually stopping to read physical books.
 
 2. structure
-* Data & graphs about the distribution of various social media platform
-* Some analysis about the differences between social media platforms
-* Combine the previous two sections to further analyze the evolution of humans' online interaction preference
+* Data & graphs about the distribution and trend of physical and ebooks
+* Some analysis about the differences between various ebooks brands
+* Combine the previous two sections to further analyze the change of people's reading habits
 
 ### Initial Sketches
 
 
 
+
 ### The Data
 
-There are a lot of data about social media on [statista](https://www.statista.com/topics/1164/social-networks/#topicHeader__wrapper). I plan to first utilize the data for separate platforms to come up with some graphs to analyze their performance throughout the years. Then I plan to combine and compare them to view the trends. I am also considering analyzing the data by gender and by country to see if the trends differ.
+There are some relevant data on statista like [E-Books Still No Match for Printed Books](https://www.statista.com/chart/24709/e-book-and-printed-book-penetration/), or [Page Turner: Printed Book Sales Rising Again in the U.S.](https://www.statista.com/chart/27285/printed-book-unit-sales-timeline-united-states/), or [Share of adults who have read an e-book in the last 12 months in the United States from 2011 to 2019](https://www.statista.com/statistics/237070/frequency-of-reading-e-books-on-an-ebook-reader-in-the-united-states/). So far the data I found has been indicating that physical books are still the mainstream type; however, I am also curious about the trends throughout the year, and I am still looking for relevant data toward that.
 
 ### Method and Medium
 
