@@ -5,7 +5,7 @@
 ### Project Outline
 
 1. Summary: 
-I plan to analyze how people's preference for books have changed throughout the years. I am interested in doing research on how ebooks perform, and if people are gradually stopping to read physical books.
+After leaving Taiwan and came to study in the state, since I'm graduating soon and will be moving around, it's getting harder for me to purchase and store physical bools. Therefore, am I plan to analyze how people's preference for books have changed throughout the years. I am interested in doing research on how ebooks perform, and if people are gradually stopping to read physical books. Also, for the ebooks market, I am curious about how each company like kindel or kobo performs, and how abundant their contents are.
 
 2. structure
 * Data & graphs about the distribution and trend of physical and ebooks
