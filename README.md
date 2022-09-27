@@ -13,4 +13,4 @@ How to visualize data in clear and clever ways.
 
 ## [Critique by Design](/dataviz3.md)
 
-## Final Project
+## [Final Project](/final_project_Yu-Ting.md)
