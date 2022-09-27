@@ -9,7 +9,7 @@ After leaving Taiwan and came to study in the state, since I'm graduating soon a
 
 2. structure
 * Data & graphs about the distribution and trend of physical and ebooks
-* Some analysis about the differences between various ebooks brands
+* Some analysis about the differences between various ebook platforms, the number of books they own, the number of publishing companies they're collaborating with
 * Combine the previous two sections to further analyze the change of people's reading habits
 
 ### Initial Sketches
