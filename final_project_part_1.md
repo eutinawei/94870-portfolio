@@ -1,8 +1,6 @@
-# Final Project
+# Final Project Part 1
 
 [Home Page](/README.md)
-
-## Part I
 
 ### Project Outline
 
