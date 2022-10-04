@@ -4,7 +4,22 @@
 
 ## Wireframe / Storyboard
 
+## Pros and cons of ebooks
 
+### Pros
+* Eco-friendly
+* Immediate access to any newly purchased book without any traveling
+* Contain a library with one device
+* More flexible: font size enlarging, text highlighting and deleting the highlights
+* Can contain multimedia like videos or audios
+* Clear lists of highlighted parts
+
+### Cons
+* Piracy
+* Eye strain if using LCD screen
+* E-book need to be charged
+* Unreliable life span
+* Hard to view picture on matte e-ink screen
 
 ## More Data
 
@@ -23,7 +38,6 @@
 - [eBook purchases by store brand in the U.S. in 2022](https://www-statista-com.cmu.idm.oclc.org/forecasts/997178/ebook-purchases-by-store-brand-in-the-us)
 - [Estimated number of e-books sold in the United States from 2010 to 2020](https://www-statista-com.cmu.idm.oclc.org/statistics/426799/e-book-unit-sales-usa/)
 - [Revenue from e-book sales in the United States from 2008 to 2018](https://www-statista-com.cmu.idm.oclc.org/statistics/190800/ebook-sales-revenue-forecast-for-the-us-market/)
-- [Estimated number of e-books sold in the United States from 2010 to 2020](https://www-statista-com.cmu.idm.oclc.org/statistics/426799/e-book-unit-sales-usa/)
 
 ### Both
 - [Share of adults who have read a book in any format in the last 12 months in the United States from 2011 to 2021, by format](https://www-statista-com.cmu.idm.oclc.org/statistics/222754/book-format-used-by-readers-in-the-us/)
