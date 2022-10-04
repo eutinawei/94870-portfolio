@@ -35,6 +35,19 @@
 * Hard to view picture on matte e-ink screen
 * Cannot buy second-handed cheaper copies, cannot resell purchased books
 
+## Interviews
+
+### Template and questions
+
+* When was the last time you read a book?
+* Do you own a e-book device?
+* What do you learn from this story?
+* Is there anything you find surprising or confusing?
+* Who do you think is the intended audience for this?
+* If you don't have a e-book device, does this make you want to buy one? If you already have one, what's your opinion and feelings toward your experience?
+* Is there anything else you are curious about that I did not mention or anything you would do differently?
+
+
 ## More Data
 
 ### Physical books
