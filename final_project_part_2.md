@@ -98,6 +98,7 @@
 
 * First, I will start polishing the graphs and pay more attention to details.
 * Also, I want to do more research on the differences of e-book performance of sales and comparison with print books.
+* I also need to polish the storyboard and do a more hifi design as well as completing the shorthand website.
 
 ## More Data
 
