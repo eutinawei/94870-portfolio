@@ -43,16 +43,61 @@
 
 ## Interviews
 
-### Template and questions
+### Student S, female, 23y
 
 * When was the last time you read a book?
+  * Every week. Course materials are in e-book format.
 * Do you own a e-book device?
+  * I read both
 * What do you learn from this story?
+  * Surprised to find out there are a lot of people still using physical books. And also surprised to find out that sometimes e-book's price can be higher than print books.
 * Is there anything you find surprising or confusing?
+  * Tried to sum up the percentage of the first graph, but it is over 100%. I guess it's because some people do both print and e books. It's confusing for the third graph, the title said "estimated", but the years are all in the past. The reason for e-book revenuing rising but proportion stays the same might also because companies earn more per book, or the cost stays the same.
 * Who do you think is the intended audience for this?
-* If you don't have a e-book device, does this make you want to buy one? If you already have one, what's your opinion and feelings toward your experience?
+  * Some traditional publishers might be interested for them to consider engaging in e-book market.
 * Is there anything else you are curious about that I did not mention or anything you would do differently?
+  * Confused about the call to action part. Are you explaining the meaning of the story?
 
+### Student N, male, 22y 
+
+* When was the last time you read a book?
+  *  A couple of weeks ago.
+* Do you own a e-book device?
+  * Kindle and also a iPad.
+* What do you learn from this story?
+  * My biggest takeaway is that a lot of people don't buy e-books.
+* Is there anything you find surprising or confusing?
+  * Surpised that audio books are low. 
+* Who do you think is the intended audience for this?
+  * People who read, and people who sell books.
+* Is there anything else you are curious about that I did not mention or anything you would do differently?
+  * It will been interesting to know the engagement for people actually finishing the books they've bought, like if people finishes physical books more than e-books.
+
+### Student T, male, 24y
+
+* When was the last time you read a book?
+  * If only talking about one page then today. Then if talking about reading a whole book, one and a half years ago.
+* Do you own a e-book device?
+  * I used to, but I sold them. But I have an iPad. I sold the e-book device because the device was not responsive, like hard to switch pages.
+* What do you learn from this story?
+  * It got me thinking that maybe the majority cost of a book is for the copyright not for printing. I don't think piracy is only a e-book problem. A huge con for me for e-book is that it's just too hard to switch between pages. 
+* Is there anything you find surprising or confusing?
+  * The price for e-book is surprisingly expensive. Also what does "trade book" mean? 
+* Who do you think is the intended audience for this?
+  * Anyone. Originally I was thinking for people who read, but I don't read and I am still interested.
+* Is there anything else you are curious about that I did not mention or anything you would do differently?
+  * It would be interesting to see how much people can understand for reading physical books or e-books. 
+
+### My findings from interviews
+
+* People pay attention to details in graph, like the wording for titles and the units, and actively doing calculation of each line.
+* It's great to hear that they are curious to learn more after listening to the story, and what they're curious about are not what I expected, which is also fun.
+* People from Taiwan and China are as surprised as me about e-books are the same price as print books in the states.
+
+### Changes I plan on implementing next
+
+* First, I will start polishing the graphs and pay more attention to details.
+* Also, I want to do more research on the differences of e-book performance of sales and comparison with print books.
 
 ## More Data
 
